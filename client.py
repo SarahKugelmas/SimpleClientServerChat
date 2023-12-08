@@ -1,3 +1,6 @@
+# SimpleClientServerChat - Client
+# Author: Sarah Kugelmas
+
 import socket
 
 # create socket
